@@ -8,8 +8,11 @@ The best-performing model, Random Forest Regressor, was selected and deployed th
 ---
 
 ## App Screenshots
-![Main Interface](screenshots/app_Screenshot1.png)
-![Prediction Result](screenshots/app_Screenshot2.png)
+
+<p align="center">
+  <img src="screenshots/app_Screenshot1.png" width="45%" />
+  <img src="screenshots/app_Screenshot2.png" width="45%" />
+</p>
 
 ---
 
